@@ -1,0 +1,3 @@
+dsn: mariadb://db:db@host.docker.internal:55213/db
+
+docPath: schema

@@ -1,0 +1,7 @@
+version: '3.9'
+
+services:
+  tbls:
+    image: k1low/tbls
+    volumes:
+      - ./:/work
